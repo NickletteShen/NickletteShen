@@ -9,19 +9,18 @@
 **NickletteShen/NickletteShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 😄 Pronouns: ...
 -->
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on <strong>Crawel
+- 🌱 I’m currently learning <strong>React
+- 🤔 I’m looking for an <strong>Internship
+- 👯 I’m looking to collaborate on F2E
 - 📫 How to reach me: ShenGangni@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: Video editing enthusiasts/Vloger
+- 💬 Ask me about BTS
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true">
 
