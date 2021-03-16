@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)
 
 
 <!--
@@ -23,6 +20,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about **BTS**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true">
+
+[![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)
+
 
 Python
 
