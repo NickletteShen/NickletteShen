@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **ShenGangni@163.com**
 - ⚡ Fun fact: **Video editing enthusiasts/Vloger**
 - 💬 Ask me about **BTS**
-
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true">
+-->
 
 [![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
 
