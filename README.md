@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on <strong>Crawel<strong>
-- 🌱 I’m currently learning <strong>React<strong>
-- 🤔 I’m looking for an <strong>Internship<strong>
+- 🔭 I’m currently working on **Crawel**
+- 🌱 I’m currently learning **React**
+- 🤔 I’m looking for an **Internship**
 - 👯 I’m looking to collaborate on F2E
-- 📫 How to reach me: <strong>ShenGangni@163.com<strong>
-- ⚡ Fun fact: <strong>Video editing enthusiasts/Vloger<strong>
-- 💬 Ask me about <strong>BTS<strong>
+- 📫 How to reach me: **ShenGangni@163.com**
+- ⚡ Fun fact: **Video editing enthusiasts/Vloger**
+- 💬 Ask me about **BTS**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true">
 
