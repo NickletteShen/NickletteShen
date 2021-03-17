@@ -49,8 +49,57 @@ const Nicklette = {
 ### 📈 Github Statistics 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)
 [![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
+#好看的图标
+&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+#邮箱
+[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+#字体
+𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 𝑩𝒆𝒊𝒋𝒊𝒏𝒈, 𝒂𝒕 𝑱𝑫.𝒄𝒐𝒎. 
+#分割线
+<p align="center">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+</p>
 
+<h3 align="center">THRIVING TO GET BIGGER, BETTER & STRONGER EVERYDAY</h3>
+
+<p align="center">
+        <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
+        <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
+        <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
+</p>
 
 <!--不用的内容
 **NickletteShen/NickletteShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
