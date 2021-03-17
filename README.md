@@ -51,6 +51,8 @@ const Nicklette = {
 [![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
 
 #好看的图标
@@ -58,6 +60,9 @@ const Nicklette = {
 &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+
+<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+
 #邮箱
 [![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
 <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
