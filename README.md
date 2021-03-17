@@ -51,8 +51,8 @@ const Nicklette = {
 [![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=NickletteShen&">
 
 
 #好看的图标
