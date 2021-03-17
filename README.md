@@ -1,6 +1,6 @@
 <h2> Hi, I'm 沈港妮! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!--右边放照片-->
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <p><em>研二学生 at <a href="http://sem.dlut.edu.cn/">大连理工大学</a>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>寻找前端开发岗位的实习机会&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
