@@ -20,7 +20,6 @@ const Nicklette = {
 }
 ```
 
-
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ### Contact with me&nbsp;&nbsp;🦉
@@ -50,8 +49,10 @@ const Nicklette = {
 
 <br/>
 
-<h2 align="center"> Github Statistics 📈 </h2>
-  
+### Github Statistics 📈
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true">
+
 
 
 
@@ -90,9 +91,6 @@ architecture: ["microservices", "event-driven", "design system pattern"],
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true">
 
 <!--
 [![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
