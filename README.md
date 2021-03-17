@@ -6,7 +6,7 @@
 </br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;正在寻找前端开发岗位的实习机会
 </em></p>
 
-#### A little more about me... 
+#### 🧙🏻‍♀️ A little more about me... 
 ```javascript
 const Nicklette = {
   pronouns: "she" | "her",
@@ -20,7 +20,7 @@ const Nicklette = {
 }
 ```
 
-### Contact with me&nbsp;&nbsp;🦉
+### 🦉 Contact with me&nbsp;&nbsp;
 
 <img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />
 <img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
@@ -29,7 +29,8 @@ const Nicklette = {
 <br/>
 <br/>
 
-### Languages and Tools 🛠 
+### 🛠 Languages and Tools 
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -45,7 +46,7 @@ const Nicklette = {
 ![Mac](http://img.shields.io/badge/-mac-0078D6?style=flat-square&logo=Apple&logoColor=ffffff)
 <br/>
 
-### Github Statistics 📈
+### 📈 Github Statistics 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)
 [![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
 
