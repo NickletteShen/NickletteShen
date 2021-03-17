@@ -1,9 +1,9 @@
-<h2> Hi, I'm 沈港妮! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm 沈港妮! </h2>
 <!--右边放照片-->
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<p><em>研二学生 at <a href="http://sem.dlut.edu.cn/">大连理工大学</a>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>寻找前端开发岗位的实习机会&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;研二学生 at <a href="http://sem.dlut.edu.cn/">大连理工大学</a>
+</br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;正在寻找前端开发岗位的实习机会
 </em></p>
 
 #### A little more about me... 
@@ -27,9 +27,9 @@ const Nicklette = {
 <img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
 <img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />
 <br/>
+<br/>
 
 ### Languages and Tools 🛠 
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -43,7 +43,6 @@ const Nicklette = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Mac](http://img.shields.io/badge/-mac-0078D6?style=flat-square&logo=Apple&logoColor=ffffff)
-
 <br/>
 
 ### Github Statistics 📈
@@ -92,6 +91,6 @@ architecture: ["microservices", "event-driven", "design system pattern"],
 
 <!-- 访客 -->
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=NickletteShen.NickletteShen" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=NickletteShen.NickletteShen" alt="visitor badge"/><br/>
   <em><b>谢谢你来看我！</b> :)</em>
 </p>
