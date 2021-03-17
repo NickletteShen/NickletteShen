@@ -6,7 +6,7 @@
 </br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;正在寻找前端开发岗位的实习机会
 </em></p>
 
-#### 🧙🏻‍♀️ A little more about me... 
+### 🧙🏻‍♀️ A little more about me... 
 ```javascript
 const Nicklette = {
   pronouns: "she" | "her",
@@ -20,12 +20,12 @@ const Nicklette = {
 }
 ```
 
-### 🦉 Contact with me&nbsp;&nbsp;
+### 🦉 Contact with me
 
-<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />
+<img align="left" alt="weixin" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/weixin_1.svg" />
 <img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
 <img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
-<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />
+<img align="left" alt="netease" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/wangyiyunyinle-.svg" />
 <br/>
 <br/>
 
