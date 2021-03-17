@@ -6,22 +6,22 @@
 </br>寻找前端开发岗位的实习机会&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### 🦉&nbsp;&nbsp;A little more about me...  
+### A little more about me... &nbsp;&nbsp;🦉
 
 ```javascript
 const Nicklette = {
   pronouns: "she" | "her",
   skills: [HTML, CSS, Javascript, REACT, Python, R, SQL],
   contact: {
-                        phone: "17786017709",
-                        wechat: "N613ic913kelette7",
-                        email: "shengangni@163.com",
-                        qq: "287783769"
-                      },
+      phone: "17786017709",
+      wechat: "N613ic913kelette7",
+      email: "shengangni@163.com",
+      qq: "287783769"
+  },
  self-Introduction: "I am completely passionate about frontend development, graphs and also very interested in data analysis. "
 }
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ### Contact with me 📝
 
