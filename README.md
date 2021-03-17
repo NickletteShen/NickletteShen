@@ -20,8 +20,6 @@ const Nicklette = {
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ### Contact with me&nbsp;&nbsp;🦉
 
 <img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />
@@ -95,5 +93,5 @@ architecture: ["microservices", "event-driven", "design system pattern"],
 <!-- 访客 -->
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=NickletteShen.NickletteShen" alt="visitor badge"/>
-  谢谢你来看我！
+  <em><b>谢谢你来看我！</b> :)</em>
 </p>
