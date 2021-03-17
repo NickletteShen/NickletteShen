@@ -25,7 +25,7 @@ const Nicklette = {
 <img align="left" alt="weixin" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/weixin_1.svg" />
 <img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
 <img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
-<img align="left" alt="netease" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/wangyiyunyinle-.svg" />
+<img align="left" alt="netease" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/method-draw-image.svg" />
 <br/>
 <br/>
 
