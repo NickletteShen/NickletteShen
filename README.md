@@ -20,15 +20,6 @@ const Nicklette = {
 }
 ```
 
-### 🦉 Contact with me
-
-<img align="left" alt="weixin" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/weixin_1.svg" />
-<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
-<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
-<img align="left" alt="netease" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/method-draw-image.svg" />
-<br/>
-<br/>
-
 ### 🛠 Languages and Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -46,6 +37,17 @@ const Nicklette = {
 ![Mac](http://img.shields.io/badge/-mac-0078D6?style=flat-square&logo=Apple&logoColor=ffffff)
 <br/>
 
+
+### 📈 Working On it！
+<p align="left">
+        <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
+        <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
+        <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
+</p>
+
 ### 📈 Github Statistics 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)
 [![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
@@ -54,6 +56,14 @@ const Nicklette = {
 <img src = "https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NickletteShen&">
 
+
+### 🦉 Contact with me
+<img align="left" alt="weixin" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/weixin_1.svg" />
+<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
+<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
+<img align="left" alt="netease" height="30px" src="https://github.com/NickletteShen/git-ING-210308/blob/master/images/others/method-draw-image.svg" />
+<br/>
+<br/>
 
 #好看的图标
 &nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
@@ -99,14 +109,7 @@ const Nicklette = {
 
 <h3 align="center">THRIVING TO GET BIGGER, BETTER & STRONGER EVERYDAY</h3>
 
-<p align="center">
-        <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-        <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
-        <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
-</p>
+
 
 <!--不用的内容
 **NickletteShen/NickletteShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
