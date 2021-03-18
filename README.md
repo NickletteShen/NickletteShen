@@ -21,7 +21,6 @@ const Nicklette = {
 ```
 
 ### 🛠 Languages and Tools 
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -36,18 +35,16 @@ const Nicklette = {
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Mac](http://img.shields.io/badge/-mac-0078D6?style=flat-square&logo=Apple&logoColor=ffffff)
 <br/>
-
-
-### 📈 Working On it！
+<br/>
+### 🧐 Working On it！
 <p align="left">
-        <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-        <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
-        <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
+  &nbsp;<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+  &nbsp;<code><a href="https://jupyter.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+  &nbsp;<code><a href="https://numpy.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+  &nbsp;<code><a href="https://pandas.pydata.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
+  &nbsp;<code><a href="https://matplotlib.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
 </p>
-
+<br/>
 ### 📈 Github Statistics 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NickletteShen&layout=compact)
 [![NickletteShen's github stats](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NickletteShen&show_icons=true)
